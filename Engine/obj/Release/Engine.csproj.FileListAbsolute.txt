@@ -1,0 +1,6 @@
+C:\Users\Andrew\source\repos\Engine\bin\Release\Engine.dll
+C:\Users\Andrew\source\repos\Engine\bin\Release\Engine.pdb
+C:\Users\Andrew\source\repos\Engine\obj\Release\Engine.csproj.AssemblyReference.cache
+C:\Users\Andrew\source\repos\Engine\obj\Release\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\Engine\obj\Release\Engine.dll
+C:\Users\Andrew\source\repos\Engine\obj\Release\Engine.pdb
